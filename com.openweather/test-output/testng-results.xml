@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="144646" started-at="2019-07-07T07:09:50Z" finished-at="2019-07-07T07:12:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="144646" started-at="2019-07-07T07:09:50Z" finished-at="2019-07-07T07:12:14Z">
+      <class name="openweather.Testcase1">
+        <test-method status="PASS" signature="homepage()[pri:2, instance:openweather.Testcase1@6767c1fc]" name="homepage" duration-ms="143289" started-at="2019-07-07T12:39:50Z" finished-at="2019-07-07T12:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:openweather.Testcase1@6767c1fc]" name="quit" is-config="true" duration-ms="1263" started-at="2019-07-07T12:42:13Z" finished-at="2019-07-07T12:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- openweather.Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
